@@ -36,14 +36,6 @@ I enjoy understanding how systems work and building practical tools along the wa
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=UygarDRK\&show_icons=true\&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=UygarDRK\&hide_border=true)
-
----
-
 ## 🌐 Links
 
 🌍 https://uygardirik.com.tr
@@ -94,3 +86,4 @@ Bilgisayar sistemlerinin nasıl çalıştığını anlamayı ve pratik araçlar 
 ---
 
 ⭐ Thanks for visiting!
+⭐ Ziyaret ettiğin için teşekkürler!
