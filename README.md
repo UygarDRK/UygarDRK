@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I'm Uygar
 
-<!--
-**UygarDRK/UygarDRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on **learning by building real software**, mainly creating desktop applications with C# and .NET.
 
-Here are some ideas to get you started:
+I enjoy understanding how systems work and building practical tools along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 💻 Mainly developing desktop applications with **C#**
+* ⚙️ Interested in operating systems and low-level system behavior
+* 🧩 Learning through experimentation and real projects
+* 🔧 Working with Arduino and small hardware projects
+* 🌱 Continuously improving my programming and problem-solving skills
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
+
+* C#
+* C++
+* Kotlin
+* HTML
+* Python (learning)
+
+**Tools & Areas**
+
+* .NET Framework
+* Windows Development
+* Android Development
+* Git & GitHub
+* Embedded / Microcontroller projects
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=UygarDRK\&show_icons=true\&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=UygarDRK\&hide_border=true)
+
+---
+
+## 🌐 Links
+
+🌍 https://uygardirik.com.tr
+📸 https://www.instagram.com/uygardirik.yazilim/
+▶️ https://www.youtube.com/@OyunCrush57
+
+---
+
+---
+
+# 👋 Merhaba, ben Uygar
+
+Gerçek projeler geliştirerek öğrenmeye odaklanan bir geliştiriciyim.
+Ağırlıklı olarak **C# ve .NET ile masaüstü uygulamaları** geliştiriyorum.
+
+Bilgisayar sistemlerinin nasıl çalıştığını anlamayı ve pratik araçlar üretmeyi seviyorum.
+
+---
+
+## 🧠 Hakkımda
+
+* 💻 Ana geliştirme alanım C# masaüstü uygulamaları
+* ⚙️ İşletim sistemleri ve sistem davranışlarıyla ilgileniyorum
+* 🧩 Deneyerek ve proje geliştirerek öğreniyorum
+* 🔧 Arduino ve donanım projeleri yapıyorum
+* 🌱 Programlama ve problem çözme becerilerimi sürekli geliştiriyorum
+
+---
+
+## 🛠️ Teknolojiler
+
+**Diller**
+
+* C#
+* C++
+* Kotlin
+* HTML
+* Python (öğreniyorum)
+
+**Alanlar**
+
+* .NET Framework
+* Windows uygulama geliştirme
+* Android geliştirme
+* Git & GitHub
+* Gömülü sistemler
+
+---
+
+⭐ Thanks for visiting!
