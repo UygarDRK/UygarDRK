@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uygar
 
-I'm a developer focused on **learning by building real software**, mainly creating desktop applications with C# and .NET.
+I'm a developer and a student focused on **learning by building real software**, mainly creating desktop applications with C# and .NET.
 
 I enjoy understanding how systems work and building practical tools along the way.
 
@@ -48,7 +48,7 @@ I enjoy understanding how systems work and building practical tools along the wa
 
 # 👋 Merhaba, ben Uygar
 
-Gerçek projeler geliştirerek öğrenmeye odaklanan bir geliştiriciyim.
+Gerçek projeler geliştirerek öğrenmeye odaklanan bir öğrenciyim ve geliştiriciyim.
 Ağırlıklı olarak **C# ve .NET ile masaüstü uygulamaları** geliştiriyorum.
 
 Bilgisayar sistemlerinin nasıl çalıştığını anlamayı ve pratik araçlar üretmeyi seviyorum.
